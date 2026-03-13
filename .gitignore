@@ -1,0 +1,48 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# env files
+.env
+.env.local
+.env.prod
+.env.*.local
+.mcp.json
+
+# debug
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian 
+.obsidian/
+
+# claude
+.claude/settings.local.json 
+CLAUDE.local.md
+.claude/retros/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# test coverage
+/coverage
+
+# supabase
+/supabase
+
+# worktrees
+/.worktrees/
