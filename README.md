@@ -1,6 +1,6 @@
 # AI Builder Starter Kit
 
-A structured workflow system for building software with [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Think of it as a pit crew for your codebase — Claude does the heavy lifting, but nothing moves without you waving the flag.
+A structured workflow system for building software with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) for AI -native product managers. Think of it as a pit crew for your codebase — Claude does the heavy lifting, but nothing moves without you waving the flag.
 
 This isn't a framework you install. It's a project template you clone and make your own. It gives Claude Code a working agreement, a skill system, and safety guardrails so you can build ambitious things without worrying about Claude going rogue on your codebase.
 
